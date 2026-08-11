@@ -197,7 +197,7 @@ Alongside this, I'm continuously improving my DSA and problem-solving skills.
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/razzak-choudhary-591987216/" target="_blank">
+  <a href="https://www.linkedin.com/in/razzak-choudhary/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/razzak_05/" target="_blank">
