@@ -19,13 +19,13 @@ Full Stack Developer • Java & MERN • Building Real-World Products
 
 I'm a **Full Stack Developer** focused on building practical, scalable, and production-ready web applications.
 
-* 🔭 Working with **Java/Spring Boot** and the **MERN ecosystem**
-* 💼 Former **MERN Stack Developer Intern at Tidbeat**
-* 🏗️ Built applications across **e-commerce, billing, real-time communication, and recruitment**
-* 🧠 Currently strengthening my skills in **System Design, scalable backend architecture, and distributed systems**
-* ⚙️ Interested in building reliable APIs, clean architectures, and maintainable software
-* 💻 Regularly practicing **Data Structures & Algorithms**
-* 🤝 Open to **software engineering opportunities, freelance work, and collaborations**
+- 🔭 Working with **Java/Spring Boot** and the **MERN ecosystem**
+- 💼 Former **MERN Stack Developer Intern at Tidbeat**
+- 🏗️ Built applications across **e-commerce, billing, real-time communication, and recruitment**
+- 🧠 Currently strengthening my skills in **System Design, scalable backend architecture, and distributed systems**
+- ⚙️ Interested in building reliable APIs, clean architectures, and maintainable software
+- 💻 Regularly practicing **Data Structures & Algorithms**
+- 🤝 Open to **software engineering opportunities, freelance work, and collaborations**
 
 ---
 
@@ -37,13 +37,13 @@ I'm a **Full Stack Developer** focused on building practical, scalable, and prod
 
 **Key Contributions**
 
-* Built and maintained full-stack features using **Next.js** with **Redux Toolkit (RTK)** for state management
-* Integrated **Razorpay** payment gateway and implemented a custom **partial-payment system**, allowing customers to pay orders in installments
-* Leveraged **GraphQL** for efficient data fetching and API communication
-* Improved the **checkout experience** with a smoother UI/UX and streamlined payment flow
-* Implemented **real-time payment status tracking** and order-management functionality
-* Worked with **Node.js and MongoDB** for backend development
-* Collaborated in an agile environment through **sprint planning, code reviews, Git, and collaborative development workflows**
+- Built and maintained full-stack features using **Next.js** with **Redux Toolkit (RTK)** for state management
+- Integrated **Razorpay** payment gateway and implemented a custom **partial-payment system**, allowing customers to pay orders in installments
+- Leveraged **GraphQL** for efficient data fetching and API communication
+- Improved the **checkout experience** with a smoother UI/UX and streamlined payment flow
+- Implemented **real-time payment status tracking** and order-management functionality
+- Worked with **Node.js and MongoDB** for backend development
+- Collaborated in an agile environment through **sprint planning, code reviews, Git, and collaborative development workflows**
 
 **Tech Stack**
 
@@ -113,11 +113,11 @@ A full-stack **e-commerce platform** for browsing apparel, managing carts, placi
 
 **Key Features**
 
-* 🛒 Product browsing and cart management
-* 💳 Online payment integration
-* 👤 Authentication and user management
-* 📦 Order management
-* 🔐 Admin controls for products, users, and orders
+- 🛒 Product browsing and cart management
+- 💳 Online payment integration
+- 👤 Authentication and user management
+- 📦 Order management
+- 🔐 Admin controls for products, users, and orders
 
 **Tech Stack**
 
@@ -131,12 +131,12 @@ A **real-time one-to-one messaging application** designed for fast and interacti
 
 **Key Features**
 
-* 🔐 OTP-based authentication
-* ⚡ Real-time messaging with Socket.IO
-* 🟢 Online/offline presence
-* ⌨️ Typing indicators
-* 🔔 Unread message tracking
-* 🖼️ Image messaging
+- 🔐 OTP-based authentication
+- ⚡ Real-time messaging with Socket.IO
+- 🟢 Online/offline presence
+- ⌨️ Typing indicators
+- 🔔 Unread message tracking
+- 🖼️ Image messaging
 
 **Tech Stack**
 
@@ -150,11 +150,11 @@ A full-stack **job portal** connecting students and recruiters through a central
 
 **Key Features**
 
-* 👨‍🎓 Student profiles
-* 🏢 Company management
-* 📋 Job posting and management
-* 📩 Job applications
-* 🔎 Recruitment workflows
+- 👨‍🎓 Student profiles
+- 🏢 Company management
+- 📋 Job posting and management
+- 📩 Job applications
+- 🔎 Recruitment workflows
 
 **Tech Stack**
 
@@ -176,61 +176,21 @@ Distributed Systems
 Redis • RabbitMQ • Kafka
       ↓
 Docker • AWS • Cloud Architecture
-```
 
-Alongside this, I'm continuously improving my **DSA and problem-solving skills**.
+Alongside this, I'm continuously improving my DSA and problem-solving skills.
 
----
+📊 GitHub Stats
+<p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=Razzak05&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="165" />
 
-## 📊 GitHub Stats
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Razzak05&theme=radical" alt="GitHub Streak" height="165" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Razzak05&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=Razzak05&theme=radical" alt="GitHub Streak" height="165" />
-</p>
+</p> <p align="center"> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Razzak05&layout=compact&theme=radical" alt="Top Languages" /> </p>
+🤝 Connect With Me
+<p align="left"> <a href="https://www.linkedin.com/in/razzak-choudhary-591987216/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://www.instagram.com/razzak_05/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> <a href="https://x.com/razzak__05" target="_blank"> <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /> </a> <a href="https://github.com/Razzak05" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p>
+📄 Resume
+<p> <a href="YOUR-RESUME-LINK-HERE"> <img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="View Resume" /> </a> </p>
+💭 Developer Philosophy
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razzak05&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+"Build things that work. Understand why they work. Then make them better."
 
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/razzak-choudhary-591987216/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="https://www.instagram.com/razzak_05/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-
-  <a href="https://x.com/razzak__05" target="_blank">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-
-  <a href="https://github.com/Razzak05" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-## 📄 Resume
-
-<p>
-  <a href="YOUR-RESUME-LINK-HERE">
-    <img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="View Resume" />
-  </a>
-</p>
-
----
-
-## 💭 Developer Philosophy
-
-> **"Build things that work. Understand why they work. Then make them better."**
-
-<p align="center">
-  <i>Always learning. Always building. Always shipping.</i>
-</p>
+<p align="center"> <i>Always learning. Always building. Always shipping.</i> </p> ```
