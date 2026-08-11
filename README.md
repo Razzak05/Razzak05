@@ -6,7 +6,6 @@ Alongside this, I'm continuously improving my DSA and problem-solving skills.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Razzak05&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Razzak05&theme=radical" alt="GitHub Streak" height="165" />
 </p>
 
