@@ -166,10 +166,6 @@ A full-stack **job portal** connecting students and recruiters through a central
 
 I'm currently focusing on becoming a stronger backend and full-stack engineer.
 
-## 📚 Currently Learning
-
-I'm currently focusing on becoming a stronger backend and full-stack engineer.
-
 ```text
 System Design
       ↓
