@@ -99,29 +99,21 @@ I'm a **Full Stack Developer** focused on building practical, scalable, and prod
 
 ### 🧾 [Billing Software](https://github.com/Razzak05/Billing-Software-Project)
 
-A full-stack **retail billing and management system** designed to handle products, orders, billing, and day-to-day business operations.
-
-**Tech Stack**
-
-`React` `Spring Boot` `MySQL` `AWS S3`
-
----
-
-### 🛍️ [Cartly](https://github.com/Razzak05/cartly) · [Live Demo](https://cartly-zupz.vercel.app/)
-
-A full-stack **e-commerce platform** for browsing apparel, managing carts, placing orders, processing payments, and managing products through an admin panel.
+A full-stack **retail billing and management system** built with **React, Spring Boot, MySQL, and AWS S3** to support day-to-day business operations. The application provides a centralized platform for managing products, customers, orders, billing, and related business workflows.
 
 **Key Features**
 
-- 🛒 Product browsing and cart management
-- 💳 Online payment integration
-- 👤 Authentication and user management
-- 📦 Order management
-- 🔐 Admin controls for products, users, and orders
+- 🧾 Retail billing and invoice management
+- 📦 Product and inventory management
+- 🛒 Order creation and order management
+- 👤 Customer management
+- 🔐 Secure backend APIs and application workflows
+- ☁️ AWS S3 integration for file storage
+- 🔄 React frontend integrated with Spring Boot REST APIs
 
 **Tech Stack**
 
-`React` `Node.js` `Express` `MongoDB` `Redux`
+`Java` `Spring Boot` `React` `MySQL` `JPA` `Hibernate` `REST API` `AWS S3`
 
 ---
 
@@ -162,6 +154,24 @@ A full-stack **job portal** connecting students and recruiters through a central
 
 ---
 
+### 🛍️ [Cartly](https://github.com/Razzak05/cartly) · [Live Demo](https://cartly-zupz.vercel.app/)
+
+A full-stack **e-commerce platform** for browsing apparel, managing carts, placing orders, processing payments, and managing products through an admin panel.
+
+**Key Features**
+
+- 🛒 Product browsing and cart management
+- 💳 Online payment integration
+- 👤 Authentication and user management
+- 📦 Order management
+- 🔐 Admin controls for products, users, and orders
+
+**Tech Stack**
+
+`React` `Node.js` `Express` `MongoDB` `Redux`
+
+---
+
 ## 📚 Currently Learning
 
 I'm currently focusing on becoming a stronger backend and full-stack engineer.
@@ -177,56 +187,24 @@ Redis • RabbitMQ • Kafka
       ↓
 Docker • AWS • Cloud Architecture
 ```
-
 Alongside this, I'm continuously improving my DSA and problem-solving skills.
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Razzak05&theme=radical" alt="GitHub Streak" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Razzak05&layout=compact&theme=radical" alt="Top Languages" height="165" />
-</p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Razzak05&theme=radical" alt="GitHub Streak" height="165" /> </p> <p align="center"> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Razzak05&layout=compact&theme=radical" alt="Top Languages" height="165" /> </p>
 
 ---
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/razzak-choudhary/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/razzak_05/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://x.com/razzak__05" target="_blank">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://github.com/Razzak05" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+🤝 Connect With Me
+<p align="left"> <a href="https://www.linkedin.com/in/razzak-choudhary/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://www.instagram.com/razzak_05/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> <a href="https://x.com/razzak__05" target="_blank"> <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /> </a> <a href="https://github.com/Razzak05" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" /> </a> </p>
 
 ---
-
-## 📄 Resume
-
-<p>
-  <a href="YOUR-RESUME-LINK-HERE">
-    <img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="View Resume" />
-  </a>
-</p>
+📄 Resume
+<p> <a href="YOUR-RESUME-LINK-HERE"> <img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="View Resume" /> </a> </p>
 
 ---
+💭 Developer Philosophy
 
-## 💭 Developer Philosophy
+"Build things that work. Understand why they work. Then make them better."
 
-> "Build things that work. Understand why they work. Then make them better."
+<p align="center"> <i>Always learning. Always building. Always shipping.</i> </p> ```
 
-<p align="center">
-  <i>Always learning. Always building. Always shipping.</i>
-</p>
