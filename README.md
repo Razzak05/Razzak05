@@ -20,7 +20,7 @@ Full Stack Developer • Java & MERN • Backend & System Design
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** focused on building practical web applications and reliable backend systems.
+I'm a **Full Stack Developer** focused on building practical web applications and backend systems.
 
 * 🔭 Working with **Java/Spring Boot** and the **MERN ecosystem**
 * 💼 Former **MERN Stack Developer Intern at Tidbeat**
@@ -89,28 +89,24 @@ I'm a **Full Stack Developer** focused on building practical web applications an
 
 ### 💬 [Flick](https://github.com/Razzak05/Flick) · [Live Demo](https://flick-zeta.vercel.app/)
 
-A **full-stack, real-time one-to-one messaging platform** built with a service-oriented backend architecture.
+A **full-stack, real-time one-to-one messaging application** built with a service-oriented backend architecture.
 
-**Key Features**
-
-* 🔐 OTP-based authentication with email verification
-* ⚡ Real-time messaging using **Socket.IO**
+* 🔐 Email/password authentication with **hashed passwords**
+* 🍪 JWT-based authentication using **HTTP cookies**
+* ⚡ Real-time messaging with **Socket.IO**
 * 🟢 Online/offline presence and typing indicators
 * 🔔 Per-chat unread-message tracking and read status
-* 🖼️ Image messaging with **Cloudinary**
-* 📨 Asynchronous OTP/email processing with **RabbitMQ**
-* ⚡ Redis-based OTP infrastructure and rate limiting
-* 🧩 Independently runnable **User, Chat, and Mail services**
+* 🖼️ Image attachments with **Cloudinary**
+* 🧩 Independently runnable **User and Chat services**
+* 🔄 Real-time sidebar and chat updates
 
-**Tech Stack:** `Next.js` `TypeScript` `Node.js` `Express` `MongoDB` `Socket.IO` `Redis` `RabbitMQ` `Cloudinary` `JWT` `Redux Toolkit` `TanStack Query`
+**Tech Stack:** `Next.js 15` `React 19` `TypeScript` `Node.js` `Express 5` `MongoDB` `Socket.IO` `Cloudinary` `JWT` `Redux Toolkit` `React Query` `Tailwind CSS`
 
 ---
 
 ### 🧾 [Billing Software](https://github.com/Razzak05/Billing-Software-Project)
 
-A full-stack **retail billing and management system** built for managing products, customers, orders, inventory, and billing workflows.
-
-**Key Features**
+A full-stack **retail billing and management system** for products, customers, orders, inventory, and billing workflows.
 
 * 🧾 Billing and invoice management
 * 📦 Product and inventory management
@@ -127,8 +123,6 @@ A full-stack **retail billing and management system** built for managing product
 
 A full-stack **job portal** connecting students and recruiters through a centralized recruitment platform.
 
-**Key Features**
-
 * 👨‍🎓 Student profiles
 * 🏢 Company management
 * 📋 Job posting and management
@@ -143,8 +137,6 @@ A full-stack **job portal** connecting students and recruiters through a central
 
 A full-stack **e-commerce platform** supporting product browsing, cart management, payments, orders, and admin operations.
 
-**Key Features**
-
 * 🛒 Product and cart management
 * 💳 Online payments
 * 👤 Authentication
@@ -157,8 +149,6 @@ A full-stack **e-commerce platform** supporting product browsing, cart managemen
 ---
 
 ## 🧠 Currently Learning
-
-I'm currently deepening my knowledge of:
 
 `System Design` · `Scalable Backend Architecture` · `Distributed Systems` · `Redis` · `RabbitMQ` · `Kafka` · `Docker` · `AWS`
 
