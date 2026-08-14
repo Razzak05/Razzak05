@@ -178,22 +178,6 @@ Alongside backend development, I'm continuously improving my **DSA and problem-s
 
 ---
 
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/razzak-choudhary/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Razzak05">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://x.com/razzak__05">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <i>Build things that work. Understand why they work. Then make them better.</i>
 </p>
