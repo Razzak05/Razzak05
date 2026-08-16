@@ -1,198 +1,177 @@
-# Razzak Choudhary
-**Full Stack & Systems Engineer**
+<h1 align="center">Hi 👋, I'm Razzak Choudhary</h1>
 
-I build reliable full-stack applications and scalable backend systems. My core work spans modern web applications, distributed workflows, and backend architecture using **Java / Spring Boot** and the **MERN ecosystem**.
-
----
-
-### Executive Summary
-
-* **Core Focus:** Backend Architecture, Systems Design, and Distributed Infrastructure.
-* **Hands-on Experience:** Production feature delivery during my software engineering internship at Tidbeat, including payment workflows and state optimization.
-* **Current Pursuit:** Deepening expertise in event-driven systems (**Kafka, RabbitMQ**), caching strategies (**Redis**), containerization (**Docker**), and cloud deployment (**AWS**).
-* **Problem Solving:** Active practitioner of core Data Structures & Algorithms.
-
----
-
-### Experience
-
-#### **MERN Stack Developer Intern** — *Tidbeat*
-*3 Months*
-
-* Engineered full-stack product features utilizing **Next.js**, **Redux Toolkit**, and **GraphQL**.
-* Integrated **Razorpay** to support custom partial-payment models, enhancing checkout success rates and UI responsiveness.
-* Designed and maintained REST/GraphQL endpoints with **Node.js** and **MongoDB**.
-* Participated in agile workflows, code reviews, and git-based team delivery cycles.
-
-**Technologies:** `Next.js` · `TypeScript` · `Node.js` · `MongoDB` · `GraphQL` · `Redux Toolkit` · `Razorpay`
-
----
-
-### Technical Capabilities
-
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | Java, JavaScript (ES6+), TypeScript, SQL, HTML/CSS |
-| **Backend Frameworks** | Spring Boot, Node.js, Express.js |
-| **Frontend Frameworks** | React, Next.js, Redux Toolkit, TanStack Query, Tailwind CSS |
-| **Databases & Storage** | MongoDB, MySQL, Redis, AWS S3, Cloudinary |
-| **Message Brokers & Distributed Tooling** | RabbitMQ, Apache Kafka |
-| **DevOps & Cloud** | Docker, AWS (Core Services), Git, GitHub, Postman |
-
----
-
-### Featured Engineering Projects
-
-#### **1. Flick — Distributed Real-Time Messaging Platform**
-*A service-oriented, real-time communication platform engineered for concurrent user tracking and low-latency delivery.*
-
-* Architected decoupled **User** and **Chat** services for independent scalability.
-* Handled real-time state synchronization (online presence, typing indicators, read receipts) via **Socket.IO**.
-* Implemented secure JWT authentication stored over HTTP-only cookies with bcrypt password hashing.
-* Supported media attachments backed by **Cloudinary**.
-
-> **Stack:** Next.js 15, React 19, TypeScript, Node.js, Express 5, MongoDB, Socket.IO, Redux Toolkit, Tailwind CSS
-
-#### **2. Retail Billing & Inventory Management System**
-*An enterprise-grade application for managing multi-store inventory, billing cycles, and transactional data.*
-
-* Designed robust REST APIs utilizing **Java Spring Boot** and **Hibernate/JPA**.
-* Implemented automated stock calculations, customer management workflows, and order generation.
-* Integrated **AWS S3** for secure, distributed cloud storage of invoice records.
-
-> **Stack:** Java, Spring Boot, React, MySQL, JPA / Hibernate, AWS S3
-
-#### **3. NextHire — Centralized Recruitment Portal**
-*A two-sided platform connecting candidates with enterprise recruiters to streamline end-to-end applications.*
-
-* Designed role-based dashboards for candidates and recruiters.
-* Implemented workflow pipelines to track candidate application progress across hiring stages.
-
-> **Stack:** React, Node.js, Express, MongoDB
-
-#### **4. Cartly — E-Commerce Engine**
-*An e-commerce platform featuring dynamic catalog operations, secure payment flows, and administrative management.*
-
-* Created full administrative control interfaces for real-time inventory adjustments and order updates.
-* Integrated third-party payment gateways and state management via **Redux**.
-
-> **Stack:** React, Node.js, Express, MongoDB, Redux, Cloudinary
-
----
-
-### GitHub Metrics & Activity
+<h3 align="center">
+Full Stack Developer • Java & MERN • Backend & System Design
+</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Razzak05&theme=radical" alt="GitHub Streak" height="150" />
-  &nbsp;&nbsp;
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Razzak05&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <a href="YOUR-RESUME-LINK-HERE">
+    <img src="https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://www.linkedin.com/in/razzak-choudhary/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Razzak05">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Full Stack Developer** focused on building practical web applications and backend systems.
+
+* 🔭 Working with **Java/Spring Boot** and the **MERN ecosystem**
+* 💼 Former **MERN Stack Developer Intern at Tidbeat**
+* 🏗️ Built applications across **billing, e-commerce, recruitment, and real-time communication**
+* ⚙️ Interested in **backend architecture, system design, and distributed systems**
+* 🧠 Currently exploring **Redis, RabbitMQ, Kafka, Docker, and AWS**
+* 💻 Regularly practicing **Data Structures & Algorithms**
+
+---
+
+## 💼 Experience
+
+### MERN Stack Developer Intern — [Tidbeat](https://tidbeat.com/)
+
+**3 Months**
+
+* Built full-stack features using **Next.js** and **Redux Toolkit**
+* Integrated **Razorpay** and implemented a custom **partial-payment workflow**
+* Worked with **GraphQL, Node.js, and MongoDB**
+* Improved checkout flows and payment-related UI/UX
+* Collaborated through **Git, code reviews, sprint planning, and agile workflows**
+
+**Tech Stack:** Next.js · Redux Toolkit · GraphQL · Razorpay · Node.js · MongoDB
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,js,ts" alt="Languages" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css" alt="Frontend" />
+</p>
+
+**Also:** TanStack Query
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" alt="Backend" />
+</p>
+
+**Also:** GraphQL · Socket.IO
+
+### Databases & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,docker,aws" alt="Databases & Infrastructure" />
+</p>
+
+**Also:** RabbitMQ · Kafka
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel" alt="Tools" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 💬 [Flick](https://github.com/Razzak05/Flick) · [Live Demo](https://flick-zeta.vercel.app/)
+
+A **full-stack, real-time one-to-one messaging application** built with a service-oriented backend architecture.
+
+* 🔐 Email/password authentication with hashed passwords
+* 🍪 JWT-based authentication using HTTP cookies
+* ⚡ Real-time messaging with Socket.IO
+* 🟢 Online/offline presence and typing indicators
+* 🔔 Per-chat unread-message tracking and read status
+* 🖼️ Image attachments with Cloudinary
+* 🧩 Independently runnable User and Chat services
+* 🔄 Real-time sidebar and chat updates
+
+**Tech Stack:** Next.js · React · TypeScript · Node.js · Express · MongoDB · Socket.IO · Cloudinary · JWT · Redux Toolkit · React Query · Tailwind CSS
+
+---
+
+### 🧾 [Billing Software](https://github.com/Razzak05/Billing-Software-Project)
+
+A full-stack **retail billing and management system** for products, customers, orders, inventory, and billing workflows.
+
+* 🧾 Billing and invoice management
+* 📦 Product and inventory management
+* 🛒 Order management
+* 👤 Customer management
+* 🔐 Secure REST APIs
+* ☁️ AWS S3 file storage
+
+**Tech Stack:** Java · Spring Boot · React · MySQL · JPA · Hibernate · AWS S3
+
+---
+
+### 💼 [NextHire](https://github.com/Razzak05/NextHire) · [Live Demo](https://next-hire-gilt.vercel.app/)
+
+A full-stack **job portal** connecting students and recruiters through a centralized recruitment platform.
+
+* 👨‍🎓 Student profiles
+* 🏢 Company management
+* 📋 Job posting and management
+* 📩 Job applications
+* 🔎 Recruitment workflows
+
+**Tech Stack:** React · Node.js · Express · MongoDB
+
+---
+
+### 🛍️ [Cartly](https://github.com/Razzak05/cartly) · [Live Demo](https://cartly-zupz.vercel.app/)
+
+A full-stack **e-commerce platform** supporting product browsing, cart management, payments, orders, and admin operations.
+
+* 🛒 Product and cart management
+* 💳 Online payments
+* 👤 Authentication
+* 📦 Order management
+* 🔐 Admin dashboard
+* 🖼️ Cloudinary image management
+
+**Tech Stack:** React · Node.js · Express · MongoDB · Redux · Cloudinary
+
+---
+
+## 🧠 Currently Learning
+
+**System Design** · **Scalable Backend Architecture** · **Distributed Systems**
+
+**Redis** · **RabbitMQ** · **Kafka** · **Docker** · **AWS**
+
+Alongside backend development, I'm continuously improving my **DSA and problem-solving skills**.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Razzak05&theme=radical" alt="GitHub Streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Razzak05&layout=compact&theme=radical" alt="Top Languages" height="165" />
 </p>
 
 ---
 
 <p align="center">
-  <sub><i>"Build things that work. Understand why they work. Then make them better."</i></sub>
+  <i>Build things that work. Understand why they work. Then make them better.</i>
 </p>
-
-
-
-Gemini is AI and can make mistakes.
-
-Analyzing
-# Razzak Choudhary
-**Full Stack & Systems Engineer**
-
-I build reliable full-stack applications and scalable backend systems. My core work spans modern web applications, distributed workflows, and backend architecture using **Java / Spring Boot** and the **MERN ecosystem**.
-
----
-
-### Executive Summary
-
-* **Core Focus:** Backend Architecture, Systems Design, and Distributed Infrastructure.
-* **Hands-on Experience:** Production feature delivery during my software engineering internship at Tidbeat, including payment workflows and state optimization.
-* **Current Pursuit:** Deepening expertise in event-driven systems (**Kafka, RabbitMQ**), caching strategies (**Redis**), containerization (**Docker**), and cloud deployment (**AWS**).
-* **Problem Solving:** Active practitioner of core Data Structures & Algorithms.
-
----
-
-### Experience
-
-#### **MERN Stack Developer Intern** — *Tidbeat*
-*3 Months*
-
-* Engineered full-stack product features utilizing **Next.js**, **Redux Toolkit**, and **GraphQL**.
-* Integrated **Razorpay** to support custom partial-payment models, enhancing checkout success rates and UI responsiveness.
-* Designed and maintained REST/GraphQL endpoints with **Node.js** and **MongoDB**.
-* Participated in agile workflows, code reviews, and git-based team delivery cycles.
-
-**Technologies:** `Next.js` · `TypeScript` · `Node.js` · `MongoDB` · `GraphQL` · `Redux Toolkit` · `Razorpay`
-
----
-
-### Technical Capabilities
-
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | Java, JavaScript (ES6+), TypeScript, SQL, HTML/CSS |
-| **Backend Frameworks** | Spring Boot, Node.js, Express.js |
-| **Frontend Frameworks** | React, Next.js, Redux Toolkit, TanStack Query, Tailwind CSS |
-| **Databases & Storage** | MongoDB, MySQL, Redis, AWS S3, Cloudinary |
-| **Message Brokers & Distributed Tooling** | RabbitMQ, Apache Kafka |
-| **DevOps & Cloud** | Docker, AWS (Core Services), Git, GitHub, Postman |
-
----
-
-### Featured Engineering Projects
-
-#### **1. Flick — Distributed Real-Time Messaging Platform**
-*A service-oriented, real-time communication platform engineered for concurrent user tracking and low-latency delivery.*
-
-* Architected decoupled **User** and **Chat** services for independent scalability.
-* Handled real-time state synchronization (online presence, typing indicators, read receipts) via **Socket.IO**.
-* Implemented secure JWT authentication stored over HTTP-only cookies with bcrypt password hashing.
-* Supported media attachments backed by **Cloudinary**.
-
-> **Stack:** Next.js 15, React 19, TypeScript, Node.js, Express 5, MongoDB, Socket.IO, Redux Toolkit, Tailwind CSS
-
-#### **2. Retail Billing & Inventory Management System**
-*An enterprise-grade application for managing multi-store inventory, billing cycles, and transactional data.*
-
-* Designed robust REST APIs utilizing **Java Spring Boot** and **Hibernate/JPA**.
-* Implemented automated stock calculations, customer management workflows, and order generation.
-* Integrated **AWS S3** for secure, distributed cloud storage of invoice records.
-
-> **Stack:** Java, Spring Boot, React, MySQL, JPA / Hibernate, AWS S3
-
-#### **3. NextHire — Centralized Recruitment Portal**
-*A two-sided platform connecting candidates with enterprise recruiters to streamline end-to-end applications.*
-
-* Designed role-based dashboards for candidates and recruiters.
-* Implemented workflow pipelines to track candidate application progress across hiring stages.
-
-> **Stack:** React, Node.js, Express, MongoDB
-
-#### **4. Cartly — E-Commerce Engine**
-*An e-commerce platform featuring dynamic catalog operations, secure payment flows, and administrative management.*
-
-* Created full administrative control interfaces for real-time inventory adjustments and order updates.
-* Integrated third-party payment gateways and state management via **Redux**.
-
-> **Stack:** React, Node.js, Express, MongoDB, Redux, Cloudinary
-
----
-
-### GitHub Metrics & Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Razzak05&theme=radical" alt="GitHub Streak" height="150" />
-  &nbsp;&nbsp;
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Razzak05&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</p>
-
----
-
-<p align="center">
-  <sub><i>"Build things that work. Understand why they work. Then make them better."</i></sub>
-</p>
-README.md
-Displaying README.md.
