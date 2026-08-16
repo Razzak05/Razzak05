@@ -20,14 +20,14 @@ Full Stack Developer • Java & MERN • Backend & System Design
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** focused on building practical web applications and backend systems.
+I'm a **Full Stack Developer** focused on building practical web applications and scalable backend systems.
 
-* 🔭 Working with **Java/Spring Boot** and the **MERN ecosystem**
-* 💼 Former **MERN Stack Developer Intern at Tidbeat**
-* 🏗️ Built applications across **billing, e-commerce, recruitment, and real-time communication**
-* ⚙️ Interested in **backend architecture, system design, and distributed systems**
-* 🧠 Currently exploring **Redis, RabbitMQ, Kafka, Docker, and AWS**
-* 💻 Regularly practicing **Data Structures & Algorithms**
+- 🔭 Working with **Java/Spring Boot** and the **MERN ecosystem**
+- 💼 Former **MERN Stack Developer Intern at Tidbeat**
+- 🏗️ Built applications across **billing, e-commerce, recruitment, and real-time communication**
+- ⚙️ Interested in **backend architecture, system design, and distributed systems**
+- 🧠 Currently exploring **Redis, RabbitMQ, Kafka, Docker, and AWS**
+- 💻 Regularly practicing **Data Structures & Algorithms**
 
 ---
 
@@ -37,11 +37,11 @@ I'm a **Full Stack Developer** focused on building practical web applications an
 
 **3 Months**
 
-* Built full-stack features using **Next.js** and **Redux Toolkit**
-* Integrated **Razorpay** and implemented a custom **partial-payment workflow**
-* Worked with **GraphQL, Node.js, and Hasura**
-* Improved checkout flows and payment-related UI/UX
-* Collaborated through **Git, code reviews, sprint planning, and agile workflows**
+- Built full-stack features using **Next.js** and **Redux Toolkit**
+- Integrated **Razorpay** and implemented a custom **partial-payment workflow**
+- Worked with **GraphQL, Node.js, and Hasura**
+- Improved checkout flows and payment-related UI/UX
+- Collaborated through **Git, code reviews, sprint planning, and agile workflows**
 
 **Tech Stack:** Next.js · Redux Toolkit · GraphQL · Razorpay · Node.js · MongoDB
 
@@ -89,35 +89,35 @@ I'm a **Full Stack Developer** focused on building practical web applications an
 
 ## 🚀 Featured Projects
 
-### 💬 [Flick](https://github.com/Razzak05/Flick) · [Live Demo](https://flick-zeta.vercel.app/)
+### 🧾 [Billing Software](https://github.com/Razzak05/Billing-Software-Project) · [Live Demo](https://billing-software-project-rho.vercel.app/)
 
-A **full-stack, real-time one-to-one messaging application** built with a service-oriented backend architecture.
+A full-stack **retail billing and management system** designed to manage products, customers, orders, inventory, and billing workflows.
 
-* 🔐 Email/password authentication with hashed passwords
-* 🍪 JWT-based authentication using HTTP cookies
-* ⚡ Real-time messaging with Socket.IO
-* 🟢 Online/offline presence and typing indicators
-* 🔔 Per-chat unread-message tracking and read status
-* 🖼️ Image attachments with Cloudinary
-* 🧩 Independently runnable User and Chat services
-* 🔄 Real-time sidebar and chat updates
+- 🧾 Billing and invoice management
+- 📦 Product and inventory management
+- 🛒 Order management
+- 👤 Customer management
+- 🔐 Secure REST APIs
+- ☁️ AWS S3 file storage
 
-**Tech Stack:** Next.js · React · TypeScript · Node.js · Express · MongoDB · Socket.IO · Cloudinary · JWT · Redux Toolkit · React Query · Tailwind CSS
+**Tech Stack:** Java · Spring Boot · React · MySQL · JPA · Hibernate · AWS S3
 
 ---
 
-### 🧾 [Billing Software](https://github.com/Razzak05/Billing-Software-Project)
+### 💬 [Flick](https://github.com/Razzak05/Flick) · [Live Demo](https://flick-zeta.vercel.app/)
 
-A full-stack **retail billing and management system** for products, customers, orders, inventory, and billing workflows.
+A **full-stack real-time one-to-one messaging application** built with a service-oriented backend architecture.
 
-* 🧾 Billing and invoice management
-* 📦 Product and inventory management
-* 🛒 Order management
-* 👤 Customer management
-* 🔐 Secure REST APIs
-* ☁️ AWS S3 file storage
+- 🔐 Email/password authentication with hashed passwords
+- 🍪 JWT-based authentication using HTTP cookies
+- ⚡ Real-time messaging with Socket.IO
+- 🟢 Online/offline presence and typing indicators
+- 🔔 Unread-message tracking and read status
+- 🖼️ Image attachments with Cloudinary
+- 🧩 Independently runnable User and Chat services
+- 🔄 Real-time sidebar and chat updates
 
-**Tech Stack:** Java · Spring Boot · React · MySQL · JPA · Hibernate · AWS S3
+**Tech Stack:** Next.js · React · TypeScript · Node.js · Express · MongoDB · Socket.IO · Cloudinary · JWT · Redux Toolkit · React Query · Tailwind CSS
 
 ---
 
@@ -125,11 +125,11 @@ A full-stack **retail billing and management system** for products, customers, o
 
 A full-stack **job portal** connecting students and recruiters through a centralized recruitment platform.
 
-* 👨‍🎓 Student profiles
-* 🏢 Company management
-* 📋 Job posting and management
-* 📩 Job applications
-* 🔎 Recruitment workflows
+- 👨‍🎓 Student profiles
+- 🏢 Company management
+- 📋 Job posting and management
+- 📩 Job applications
+- 🔎 Recruitment workflows
 
 **Tech Stack:** React · Node.js · Express · MongoDB
 
@@ -137,20 +137,20 @@ A full-stack **job portal** connecting students and recruiters through a central
 
 ### 🛍️ [Cartly](https://github.com/Razzak05/cartly) · [Live Demo](https://cartly-zupz.vercel.app/)
 
-A full-stack **e-commerce platform** supporting product browsing, cart management, payments, orders, and admin operations.
+A full-stack **e-commerce platform** supporting product browsing, cart management, payments, orders, and administration.
 
-* 🛒 Product and cart management
-* 💳 Online payments
-* 👤 Authentication
-* 📦 Order management
-* 🔐 Admin dashboard
-* 🖼️ Cloudinary image management
+- 🛒 Product and cart management
+- 💳 Online payments
+- 👤 Authentication
+- 📦 Order management
+- 🔐 Admin dashboard
+- 🖼️ Cloudinary image management
 
 **Tech Stack:** React · Node.js · Express · MongoDB · Redux · Cloudinary
 
 ---
 
-## 🧠 Currently Learning
+## 🧠 Currently Exploring
 
 **System Design** · **Scalable Backend Architecture** · **Distributed Systems**
 
@@ -172,6 +172,9 @@ Alongside backend development, I'm continuously improving my **DSA and problem-s
 
 ---
 
+<p align="center">
+  <i>Build things that work. Understand why they work. Then make them better.</i>
+</p>
 <p align="center">
   <i>Build things that work. Understand why they work. Then make them better.</i>
 </p>
