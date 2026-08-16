@@ -39,7 +39,7 @@ I'm a **Full Stack Developer** focused on building practical web applications an
 
 * Built full-stack features using **Next.js** and **Redux Toolkit**
 * Integrated **Razorpay** and implemented a custom **partial-payment workflow**
-* Worked with **GraphQL, Node.js, and MongoDB**
+* Worked with **GraphQL, Node.js, and Hasura**
 * Improved checkout flows and payment-related UI/UX
 * Collaborated through **Git, code reviews, sprint planning, and agile workflows**
 
