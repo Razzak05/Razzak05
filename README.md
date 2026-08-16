@@ -175,6 +175,3 @@ Alongside backend development, I'm continuously improving my **DSA and problem-s
 <p align="center">
   <i>Build things that work. Understand why they work. Then make them better.</i>
 </p>
-<p align="center">
-  <i>Build things that work. Understand why they work. Then make them better.</i>
-</p>
